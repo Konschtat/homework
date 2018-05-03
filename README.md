@@ -1,1 +1,1 @@
-## freeCodeCamp Homework
+## Assignments from kWh + freeCodeCamp
